@@ -1,0 +1,11 @@
+<LinearLayout orientation="vertical" padding="20dp" layout_width="match_parent" layout_height="match_parent">
+    
+    <EditText id="@+id/tokenInput" hint="التوكن لك وصخ😂" layout_width="match_parent" layout_height="wrap_content"/>
+    
+    <EditText id="@+id/chatIdInput" hint="الايدي حبيبي😉" layout_width="match_parent" layout_height="wrap_content"/>
+    
+    <EditText id="@+id/messageInput" hint="شتريد اتخربط خربط🫣😆" layout_width="match_parent" layout_height="wrap_content" lines="4"/>
+    
+    <Button id="@+id/sendBtn" text="يله دزلي 😜" layout_width="match_parent" layout_height="wrap_content"/>
+
+</LinearLayout>
